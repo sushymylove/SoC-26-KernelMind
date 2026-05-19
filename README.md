@@ -1,1 +1,0 @@
-# SoC-26-KernelMind
